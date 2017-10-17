@@ -1,0 +1,6 @@
+C:\Users\AnDrew parker\Desktop\PracticalReviewLab_Starter\bin\Debug\PracticalReviewLab.exe.config
+C:\Users\AnDrew parker\Desktop\PracticalReviewLab_Starter\bin\Debug\PracticalReviewLab.exe
+C:\Users\AnDrew parker\Desktop\PracticalReviewLab_Starter\bin\Debug\PracticalReviewLab.pdb
+C:\Users\AnDrew parker\Desktop\PracticalReviewLab_Starter\obj\Debug\PracticalReviewLab.csprojResolveAssemblyReference.cache
+C:\Users\AnDrew parker\Desktop\PracticalReviewLab_Starter\obj\Debug\PracticalReviewLab.exe
+C:\Users\AnDrew parker\Desktop\PracticalReviewLab_Starter\obj\Debug\PracticalReviewLab.pdb
